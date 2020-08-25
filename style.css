@@ -1,4 +1,6 @@
 main div {
     border-radius: 10px;
     background-color: lightcyan;
+    height: 50px;
+    width: 50px;
 }
